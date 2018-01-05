@@ -1,0 +1,5 @@
+laptop 10
+monitor 3
+cpu 4
+mouse 5
+keyboard 1
